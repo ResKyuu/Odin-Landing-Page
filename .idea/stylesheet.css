@@ -165,3 +165,47 @@ button {
     align-items: end;
 }
 
+.order-container {
+    padding: 25px 150px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.order-text {
+    padding: 25px 50px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.order-text h3 {
+    color: #F9FAF8;
+    font-size: 36px;
+}
+.order-text p {
+    max-width: 400px;
+    padding-bottom: 10px;
+}
+
+.order-text button {
+    border: white solid 2px;
+}
+
+.order-image {
+    display: flex;
+    float: right;
+    height: 200px;
+}
+
+.order-space-container {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    gap: 10px;
+}
