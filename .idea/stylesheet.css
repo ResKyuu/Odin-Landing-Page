@@ -209,3 +209,13 @@ button {
     justify-content: center;
     gap: 10px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1vw;
+    background-color: #1c2531;
+    color: #E5E7EB;
+}
